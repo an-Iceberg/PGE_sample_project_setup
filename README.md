@@ -11,3 +11,5 @@ It's best if you use your own copy.
 
 [olc::PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 > Only the header file `olcPixelGameEngine.h` is required. Place it into the `include` folder.
+
+TODO: add the g++ compiler toolchain and em++ as a dependency
