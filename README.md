@@ -11,10 +11,10 @@ It's best if you use your own copy.
 ## Dependencies
 
 - [olc::PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
-> The header file `olcPixelGameEngine.h` is required. Place it into the `include` folder.
+  > Only the header file `olcPixelGameEngine.h` is required. Place it into the `include` folder.
 
 - A C++ compiler that comes with libaries for OpenGL.
-> I recommend [this guide](https://www.youtube.com/watch?v=0HD0pqVtsmw) that shows you how to download and install the MinGW toolchain on windows using MSYS2.
+  > I recommend [this guide](https://www.youtube.com/watch?v=0HD0pqVtsmw) that shows you how to download and install the MinGW toolchain on windows using MSYS2.
 
 - *optional:* [emscripten](https://emscripten.org/)
-> Check out [this video](https://www.youtube.com/watch?v=MrI5kkVY6zk) by the one and only javidx9 himself on how to install emscripten on your machine.
+  > Check out [this video](https://www.youtube.com/watch?v=MrI5kkVY6zk) by the one and only javidx9 himself on how to install emscripten on your machine.
