@@ -12,7 +12,7 @@
         "${workspaceFolder}\\src\\*.cpp",
 
         "--output",
-        "${workspaceFolder}\\build\\debug\\PGE_program.exe",
+        "${workspaceFolder}\\build\\PGE_program_debug.exe",
 
         "-I",
         "${workspaceFolder}\\include",
@@ -55,7 +55,7 @@
         "${workspaceFolder}\\src\\*.cpp",
 
         "--output",
-        "${workspaceFolder}\\build\\release\\PGE_program.exe",
+        "${workspaceFolder}\\build\\PGE_program_release.exe",
 
         "-I",
         "${workspaceFolder}\\include",

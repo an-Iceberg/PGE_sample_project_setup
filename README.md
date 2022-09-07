@@ -18,3 +18,4 @@ It's best if you use your own copy.
 
 - *optional:* [emscripten](https://emscripten.org/)
   > Check out [this video](https://www.youtube.com/watch?v=MrI5kkVY6zk) by the one and only javidx9 himself on how to install emscripten on your machine.
+  (Sadly, I couldn't figure out how to add VSCode build commands for emscripten)
