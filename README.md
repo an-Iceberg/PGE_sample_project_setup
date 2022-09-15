@@ -2,8 +2,10 @@
 
 ## A fully set up project structure with debug and release commands for Visual Studio Code
 
-All you need to do is clone this repo and start coding.
-Be sure to change this readme and remove the `.gitignore` files in the build folders. They're only there because github ignores empty folders.
+All you need to do is clone this repo and start coding in the `src` directory.
+
+Don't forget to change or delete this readme and remove the `.gitignore` files in the build folders if you don't plan on publishing this project anywhere. They're only there because github ignores empty folders. Also add a folder named `graphics` or `sprites` if you want to add any sprites or decals to your program. The `docs` folder is only there if you want to also take advantage of github pages to publish your project to the web using WASM, otherwise it can be removed as well.
+
 I try to keep the olc::PGE header file updated with the latest release but it isn't guaranteed to be the case.
 It's best if you use your own copy.
 
@@ -18,4 +20,4 @@ It's best if you use your own copy.
 
 - *optional:* [emscripten](https://emscripten.org/)
   > Check out [this video](https://www.youtube.com/watch?v=MrI5kkVY6zk) by the one and only javidx9 himself on how to install emscripten on your machine.
-  (Sadly, I couldn't figure out how to add VSCode build commands for emscripten)
+  (I couldn't figure out how to add VSCode build commands for emscripten)

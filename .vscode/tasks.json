@@ -1,5 +1,4 @@
 {
-  // TODO: add emscripten as a build command
   "tasks": [
     {
       "type": "cppbuild",
